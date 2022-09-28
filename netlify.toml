@@ -2,4 +2,4 @@
   directory = "api"
 
 [build]
-  functions = "./"
+  functions = "./api"
